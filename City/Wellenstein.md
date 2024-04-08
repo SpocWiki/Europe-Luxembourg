@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.37] 
-[geo-lat::49.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.37] 
+[has_place_latitude::49.55] 
 [name::Wellenstein] 
 State ::  
 Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 

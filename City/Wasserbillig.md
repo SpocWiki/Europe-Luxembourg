@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.5] 
-[geo-lat::49.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.5] 
+[has_place_latitude::49.72] 
 [name::Wasserbillig] 
 State ::  
 Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 

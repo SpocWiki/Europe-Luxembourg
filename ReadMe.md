@@ -126,8 +126,10 @@ Capital :: [[geo/Continent/Europe/Europe~West/Luxembourg]]
 ![[Flag_of_Luxembourg.svg|350]] 
 [Alcohol-l::13] 
 [Language-Id::496] 
-[geo-lon::6.07904] 
-[geo-lat::49.6827] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.07904] 
+[has_place_latitude::49.6827] 
 
 
 

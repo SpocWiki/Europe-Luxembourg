@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.1] 
-[geo-lat::49.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.1] 
+[has_place_latitude::49.53] 
 [name::Bettembourg] 
 State ::  
 Country :: [[../../../../Luxembourg]] ] 
