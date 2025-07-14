@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Esch-Alz.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityEsch-Alz.public.md) 
+### [Esch-Alz](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Esch-Alz.md) 
 
-### [Esch-Alz.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityEsch-Alz.internal.md) 
+### [Esch-Alz.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Esch-Alz.public.md) 
 
-### [Esch-Alz.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityEsch-Alz.protect.md) 
+### [Esch-Alz.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Esch-Alz.internal.md) 
 
-### [Esch-Alz.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityEsch-Alz.private.md) 
+### [Esch-Alz.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Esch-Alz.protect.md) 
 
-### [Esch-Alz.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityEsch-Alz.personal.md) 
+### [Esch-Alz.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Esch-Alz.private.md) 
 
-### [Esch-Alz.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityEsch-Alz.secret.md)
+### [Esch-Alz.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Esch-Alz.personal.md) 
+
+### [Esch-Alz.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Esch-Alz.secret.md)
 

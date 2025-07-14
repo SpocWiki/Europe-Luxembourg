@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Troivierges.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityTroivierges.public.md) 
+### [Troivierges](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Troivierges.md) 
 
-### [Troivierges.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityTroivierges.internal.md) 
+### [Troivierges.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Troivierges.public.md) 
 
-### [Troivierges.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityTroivierges.protect.md) 
+### [Troivierges.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Troivierges.internal.md) 
 
-### [Troivierges.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityTroivierges.private.md) 
+### [Troivierges.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Troivierges.protect.md) 
 
-### [Troivierges.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityTroivierges.personal.md) 
+### [Troivierges.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Troivierges.private.md) 
 
-### [Troivierges.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityTroivierges.secret.md)
+### [Troivierges.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Troivierges.personal.md) 
+
+### [Troivierges.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Troivierges.secret.md)
 

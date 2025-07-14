@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harlange.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHarlange.public.md) 
+### [Harlange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Harlange.md) 
 
-### [Harlange.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHarlange.internal.md) 
+### [Harlange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Harlange.public.md) 
 
-### [Harlange.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHarlange.protect.md) 
+### [Harlange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Harlange.internal.md) 
 
-### [Harlange.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHarlange.private.md) 
+### [Harlange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Harlange.protect.md) 
 
-### [Harlange.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHarlange.personal.md) 
+### [Harlange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Harlange.private.md) 
 
-### [Harlange.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHarlange.secret.md)
+### [Harlange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Harlange.personal.md) 
+
+### [Harlange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Harlange.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strassen.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityStrassen.public.md) 
+### [Strassen](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.md) 
 
-### [Strassen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityStrassen.internal.md) 
+### [Strassen.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.public.md) 
 
-### [Strassen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityStrassen.protect.md) 
+### [Strassen.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.internal.md) 
 
-### [Strassen.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityStrassen.private.md) 
+### [Strassen.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.protect.md) 
 
-### [Strassen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityStrassen.personal.md) 
+### [Strassen.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.private.md) 
 
-### [Strassen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityStrassen.secret.md)
+### [Strassen.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.personal.md) 
+
+### [Strassen.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.secret.md)
 

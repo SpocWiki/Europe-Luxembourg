@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pétange.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityPétange.public.md) 
+### [Pétange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Pétange.md) 
 
-### [Pétange.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityPétange.internal.md) 
+### [Pétange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Pétange.public.md) 
 
-### [Pétange.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityPétange.protect.md) 
+### [Pétange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Pétange.internal.md) 
 
-### [Pétange.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityPétange.private.md) 
+### [Pétange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Pétange.protect.md) 
 
-### [Pétange.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityPétange.personal.md) 
+### [Pétange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Pétange.private.md) 
 
-### [Pétange.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityPétange.secret.md)
+### [Pétange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Pétange.personal.md) 
+
+### [Pétange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Pétange.secret.md)
 

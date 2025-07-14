@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hosingen.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHosingen.public.md) 
+### [Hosingen](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Hosingen.md) 
 
-### [Hosingen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHosingen.internal.md) 
+### [Hosingen.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Hosingen.public.md) 
 
-### [Hosingen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHosingen.protect.md) 
+### [Hosingen.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Hosingen.internal.md) 
 
-### [Hosingen.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHosingen.private.md) 
+### [Hosingen.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Hosingen.protect.md) 
 
-### [Hosingen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHosingen.personal.md) 
+### [Hosingen.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Hosingen.private.md) 
 
-### [Hosingen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityHosingen.secret.md)
+### [Hosingen.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Hosingen.personal.md) 
+
+### [Hosingen.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Hosingen.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vichten.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityVichten.public.md) 
+### [Vichten](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Vichten.md) 
 
-### [Vichten.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityVichten.internal.md) 
+### [Vichten.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Vichten.public.md) 
 
-### [Vichten.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityVichten.protect.md) 
+### [Vichten.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Vichten.internal.md) 
 
-### [Vichten.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityVichten.private.md) 
+### [Vichten.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Vichten.protect.md) 
 
-### [Vichten.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityVichten.personal.md) 
+### [Vichten.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Vichten.private.md) 
 
-### [Vichten.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityVichten.secret.md)
+### [Vichten.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Vichten.personal.md) 
+
+### [Vichten.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Vichten.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wellenstein.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.public.md) 
+### [Wellenstein](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.md) 
 
-### [Wellenstein.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.internal.md) 
+### [Wellenstein.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.public.md) 
 
-### [Wellenstein.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.protect.md) 
+### [Wellenstein.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.internal.md) 
 
-### [Wellenstein.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.private.md) 
+### [Wellenstein.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.protect.md) 
 
-### [Wellenstein.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.personal.md) 
+### [Wellenstein.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.private.md) 
 
-### [Wellenstein.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.secret.md)
+### [Wellenstein.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.personal.md) 
+
+### [Wellenstein.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldbillig.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityWaldbillig.public.md) 
+### [Waldbillig](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Waldbillig.md) 
 
-### [Waldbillig.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityWaldbillig.internal.md) 
+### [Waldbillig.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Waldbillig.public.md) 
 
-### [Waldbillig.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityWaldbillig.protect.md) 
+### [Waldbillig.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Waldbillig.internal.md) 
 
-### [Waldbillig.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityWaldbillig.private.md) 
+### [Waldbillig.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Waldbillig.protect.md) 
 
-### [Waldbillig.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityWaldbillig.personal.md) 
+### [Waldbillig.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Waldbillig.private.md) 
 
-### [Waldbillig.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityWaldbillig.secret.md)
+### [Waldbillig.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Waldbillig.personal.md) 
+
+### [Waldbillig.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Waldbillig.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dalheim.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityDalheim.public.md) 
+### [Dalheim](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Dalheim.md) 
 
-### [Dalheim.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityDalheim.internal.md) 
+### [Dalheim.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Dalheim.public.md) 
 
-### [Dalheim.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityDalheim.protect.md) 
+### [Dalheim.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Dalheim.internal.md) 
 
-### [Dalheim.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityDalheim.private.md) 
+### [Dalheim.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Dalheim.protect.md) 
 
-### [Dalheim.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityDalheim.personal.md) 
+### [Dalheim.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Dalheim.private.md) 
 
-### [Dalheim.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityDalheim.secret.md)
+### [Dalheim.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Dalheim.personal.md) 
+
+### [Dalheim.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Dalheim.secret.md)
 

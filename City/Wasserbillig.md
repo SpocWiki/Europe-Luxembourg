@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wasserbillig.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.public.md) 
+### [Wasserbillig](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.md) 
 
-### [Wasserbillig.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.internal.md) 
+### [Wasserbillig.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.public.md) 
 
-### [Wasserbillig.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.protect.md) 
+### [Wasserbillig.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.internal.md) 
 
-### [Wasserbillig.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.private.md) 
+### [Wasserbillig.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.protect.md) 
 
-### [Wasserbillig.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.personal.md) 
+### [Wasserbillig.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.private.md) 
 
-### [Wasserbillig.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.secret.md)
+### [Wasserbillig.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.personal.md) 
+
+### [Wasserbillig.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.secret.md)
 

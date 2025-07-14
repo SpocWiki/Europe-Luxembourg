@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Echternach.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityEchternach.public.md) 
+### [Echternach](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Echternach.md) 
 
-### [Echternach.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityEchternach.internal.md) 
+### [Echternach.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Echternach.public.md) 
 
-### [Echternach.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityEchternach.protect.md) 
+### [Echternach.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Echternach.internal.md) 
 
-### [Echternach.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityEchternach.private.md) 
+### [Echternach.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Echternach.protect.md) 
 
-### [Echternach.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityEchternach.personal.md) 
+### [Echternach.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Echternach.private.md) 
 
-### [Echternach.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityEchternach.secret.md)
+### [Echternach.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Echternach.personal.md) 
+
+### [Echternach.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Echternach.secret.md)
 

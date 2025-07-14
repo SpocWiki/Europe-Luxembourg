@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Differdange.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDifferdange.public.md) 
+### [Differdange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.md) 
 
-### [Differdange.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDifferdange.internal.md) 
+### [Differdange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.public.md) 
 
-### [Differdange.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDifferdange.protect.md) 
+### [Differdange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.internal.md) 
 
-### [Differdange.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDifferdange.private.md) 
+### [Differdange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.protect.md) 
 
-### [Differdange.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDifferdange.personal.md) 
+### [Differdange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.private.md) 
 
-### [Differdange.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDifferdange.secret.md)
+### [Differdange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.personal.md) 
+
+### [Differdange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.secret.md)
 

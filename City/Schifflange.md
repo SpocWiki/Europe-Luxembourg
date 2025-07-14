@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schifflange.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CitySchifflange.public.md) 
+### [Schifflange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Schifflange.md) 
 
-### [Schifflange.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CitySchifflange.internal.md) 
+### [Schifflange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Schifflange.public.md) 
 
-### [Schifflange.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CitySchifflange.protect.md) 
+### [Schifflange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Schifflange.internal.md) 
 
-### [Schifflange.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CitySchifflange.private.md) 
+### [Schifflange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Schifflange.protect.md) 
 
-### [Schifflange.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CitySchifflange.personal.md) 
+### [Schifflange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Schifflange.private.md) 
 
-### [Schifflange.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CitySchifflange.secret.md)
+### [Schifflange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Schifflange.personal.md) 
+
+### [Schifflange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Schifflange.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beafort.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBeafort.public.md) 
+### [Beafort](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Beafort.md) 
 
-### [Beafort.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBeafort.internal.md) 
+### [Beafort.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Beafort.public.md) 
 
-### [Beafort.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBeafort.protect.md) 
+### [Beafort.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Beafort.internal.md) 
 
-### [Beafort.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBeafort.private.md) 
+### [Beafort.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Beafort.protect.md) 
 
-### [Beafort.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBeafort.personal.md) 
+### [Beafort.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Beafort.private.md) 
 
-### [Beafort.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBeafort.secret.md)
+### [Beafort.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Beafort.personal.md) 
+
+### [Beafort.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Beafort.secret.md)
 

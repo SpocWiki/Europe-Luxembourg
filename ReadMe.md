@@ -132,15 +132,17 @@ Capital :: [[geo/Continent/Europe/Europe~West/Luxembourg]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~West\LuxembourgReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~West\LuxembourgReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~West\LuxembourgReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~West\LuxembourgReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~West\LuxembourgReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~West\LuxembourgReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/ReadMe.secret.md)
 

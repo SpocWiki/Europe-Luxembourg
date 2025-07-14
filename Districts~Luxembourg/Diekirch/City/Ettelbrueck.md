@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ettelbrueck.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityEttelbrueck.public.md) 
+### [Ettelbrueck](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Ettelbrueck.md) 
 
-### [Ettelbrueck.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityEttelbrueck.internal.md) 
+### [Ettelbrueck.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Ettelbrueck.public.md) 
 
-### [Ettelbrueck.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityEttelbrueck.protect.md) 
+### [Ettelbrueck.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Ettelbrueck.internal.md) 
 
-### [Ettelbrueck.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityEttelbrueck.private.md) 
+### [Ettelbrueck.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Ettelbrueck.protect.md) 
 
-### [Ettelbrueck.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityEttelbrueck.personal.md) 
+### [Ettelbrueck.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Ettelbrueck.private.md) 
 
-### [Ettelbrueck.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityEttelbrueck.secret.md)
+### [Ettelbrueck.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Ettelbrueck.personal.md) 
+
+### [Ettelbrueck.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch/City/Ettelbrueck.secret.md)
 

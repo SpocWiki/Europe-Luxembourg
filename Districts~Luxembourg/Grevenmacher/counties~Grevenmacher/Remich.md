@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Remich.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.public.md) 
+### [Remich](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.md) 
 
-### [Remich.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.internal.md) 
+### [Remich.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.public.md) 
 
-### [Remich.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.protect.md) 
+### [Remich.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.internal.md) 
 
-### [Remich.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.private.md) 
+### [Remich.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.protect.md) 
 
-### [Remich.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.personal.md) 
+### [Remich.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.private.md) 
 
-### [Remich.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.secret.md)
+### [Remich.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.personal.md) 
+
+### [Remich.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.secret.md)
 

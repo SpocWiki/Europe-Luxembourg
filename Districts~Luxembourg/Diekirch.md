@@ -41,15 +41,17 @@ markerFolder: ./Diekirch/
 
 ## Confidential Links & Embeds: 
 
-### [Diekirch.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgDiekirch.public.md) 
+### [Diekirch](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch.md) 
 
-### [Diekirch.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgDiekirch.internal.md) 
+### [Diekirch.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch.public.md) 
 
-### [Diekirch.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgDiekirch.protect.md) 
+### [Diekirch.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch.internal.md) 
 
-### [Diekirch.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgDiekirch.private.md) 
+### [Diekirch.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch.protect.md) 
 
-### [Diekirch.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgDiekirch.personal.md) 
+### [Diekirch.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch.private.md) 
 
-### [Diekirch.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgDiekirch.secret.md)
+### [Diekirch.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch.personal.md) 
+
+### [Diekirch.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Diekirch.secret.md)
 

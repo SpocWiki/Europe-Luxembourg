@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bertrange.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBertrange.public.md) 
+### [Bertrange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.md) 
 
-### [Bertrange.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBertrange.internal.md) 
+### [Bertrange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.public.md) 
 
-### [Bertrange.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBertrange.protect.md) 
+### [Bertrange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.internal.md) 
 
-### [Bertrange.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBertrange.private.md) 
+### [Bertrange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.protect.md) 
 
-### [Bertrange.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBertrange.personal.md) 
+### [Bertrange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.private.md) 
 
-### [Bertrange.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBertrange.secret.md)
+### [Bertrange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.personal.md) 
+
+### [Bertrange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.secret.md)
 

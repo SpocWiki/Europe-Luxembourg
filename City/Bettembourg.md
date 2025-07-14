@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bettembourg.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBettembourg.public.md) 
+### [Bettembourg](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bettembourg.md) 
 
-### [Bettembourg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBettembourg.internal.md) 
+### [Bettembourg.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bettembourg.public.md) 
 
-### [Bettembourg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBettembourg.protect.md) 
+### [Bettembourg.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bettembourg.internal.md) 
 
-### [Bettembourg.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBettembourg.private.md) 
+### [Bettembourg.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bettembourg.protect.md) 
 
-### [Bettembourg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBettembourg.personal.md) 
+### [Bettembourg.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bettembourg.private.md) 
 
-### [Bettembourg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBettembourg.secret.md)
+### [Bettembourg.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bettembourg.personal.md) 
+
+### [Bettembourg.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bettembourg.secret.md)
 

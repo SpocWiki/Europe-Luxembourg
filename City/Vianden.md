@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vianden.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityVianden.public.md) 
+### [Vianden](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.md) 
 
-### [Vianden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityVianden.internal.md) 
+### [Vianden.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.public.md) 
 
-### [Vianden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityVianden.protect.md) 
+### [Vianden.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.internal.md) 
 
-### [Vianden.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityVianden.private.md) 
+### [Vianden.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.protect.md) 
 
-### [Vianden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityVianden.personal.md) 
+### [Vianden.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.private.md) 
 
-### [Vianden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityVianden.secret.md)
+### [Vianden.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.personal.md) 
+
+### [Vianden.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.secret.md)
 

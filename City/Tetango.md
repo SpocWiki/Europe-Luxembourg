@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tetango.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTetango.public.md) 
+### [Tetango](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tetango.md) 
 
-### [Tetango.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTetango.internal.md) 
+### [Tetango.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tetango.public.md) 
 
-### [Tetango.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTetango.protect.md) 
+### [Tetango.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tetango.internal.md) 
 
-### [Tetango.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTetango.private.md) 
+### [Tetango.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tetango.protect.md) 
 
-### [Tetango.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTetango.personal.md) 
+### [Tetango.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tetango.private.md) 
 
-### [Tetango.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTetango.secret.md)
+### [Tetango.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tetango.personal.md) 
+
+### [Tetango.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tetango.secret.md)
 

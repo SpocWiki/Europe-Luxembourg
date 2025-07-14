@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wormeldange.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWormeldange.public.md) 
+### [Wormeldange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.md) 
 
-### [Wormeldange.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWormeldange.internal.md) 
+### [Wormeldange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.public.md) 
 
-### [Wormeldange.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWormeldange.protect.md) 
+### [Wormeldange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.internal.md) 
 
-### [Wormeldange.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWormeldange.private.md) 
+### [Wormeldange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.protect.md) 
 
-### [Wormeldange.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWormeldange.personal.md) 
+### [Wormeldange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.private.md) 
 
-### [Wormeldange.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWormeldange.secret.md)
+### [Wormeldange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.personal.md) 
+
+### [Wormeldange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.secret.md)
 

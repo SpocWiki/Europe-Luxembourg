@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Mondorf.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBad_Mondorf.public.md) 
+### [Bad_Mondorf](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.md) 
 
-### [Bad_Mondorf.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBad_Mondorf.internal.md) 
+### [Bad_Mondorf.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.public.md) 
 
-### [Bad_Mondorf.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBad_Mondorf.protect.md) 
+### [Bad_Mondorf.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.internal.md) 
 
-### [Bad_Mondorf.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBad_Mondorf.private.md) 
+### [Bad_Mondorf.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.protect.md) 
 
-### [Bad_Mondorf.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBad_Mondorf.personal.md) 
+### [Bad_Mondorf.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.private.md) 
 
-### [Bad_Mondorf.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityBad_Mondorf.secret.md)
+### [Bad_Mondorf.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.personal.md) 
+
+### [Bad_Mondorf.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.secret.md)
 

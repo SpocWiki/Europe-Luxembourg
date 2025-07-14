@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kayl.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.public.md) 
+### [Kayl](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.md) 
 
-### [Kayl.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.internal.md) 
+### [Kayl.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.public.md) 
 
-### [Kayl.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.protect.md) 
+### [Kayl.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.internal.md) 
 
-### [Kayl.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.private.md) 
+### [Kayl.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.protect.md) 
 
-### [Kayl.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.personal.md) 
+### [Kayl.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.private.md) 
 
-### [Kayl.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.secret.md)
+### [Kayl.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.personal.md) 
+
+### [Kayl.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.secret.md)
 

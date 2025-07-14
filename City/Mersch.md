@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mersch.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.public.md) 
+### [Mersch](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mersch.md) 
 
-### [Mersch.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.internal.md) 
+### [Mersch.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mersch.public.md) 
 
-### [Mersch.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.protect.md) 
+### [Mersch.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mersch.internal.md) 
 
-### [Mersch.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.private.md) 
+### [Mersch.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mersch.protect.md) 
 
-### [Mersch.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.personal.md) 
+### [Mersch.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mersch.private.md) 
 
-### [Mersch.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.secret.md)
+### [Mersch.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mersch.personal.md) 
+
+### [Mersch.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mersch.secret.md)
 
