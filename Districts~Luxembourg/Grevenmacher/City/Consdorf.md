@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Consdorf|Consdorf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Consdorf.public|Consdorf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Consdorf.internal|Consdorf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Consdorf.protect|Consdorf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Consdorf.private|Consdorf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Consdorf.personal|Consdorf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Consdorf.secret|Consdorf.secret]] 
+
+### [Consdorf.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityConsdorf.public.md) 
+
+### [Consdorf.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityConsdorf.internal.md) 
+
+### [Consdorf.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityConsdorf.protect.md) 
+
+### [Consdorf.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityConsdorf.private.md) 
+
+### [Consdorf.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityConsdorf.personal.md) 
+
+### [Consdorf.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\CityConsdorf.secret.md)
+

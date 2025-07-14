@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Itzig|Itzig]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Itzig.public|Itzig.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Itzig.internal|Itzig.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Itzig.protect|Itzig.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Itzig.private|Itzig.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Itzig.personal|Itzig.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Itzig.secret|Itzig.secret]] 
+
+### [Itzig.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityItzig.public.md) 
+
+### [Itzig.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityItzig.internal.md) 
+
+### [Itzig.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityItzig.protect.md) 
+
+### [Itzig.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityItzig.private.md) 
+
+### [Itzig.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityItzig.personal.md) 
+
+### [Itzig.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityItzig.secret.md)
+

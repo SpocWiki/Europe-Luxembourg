@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Falschette|Falschette]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Falschette.public|Falschette.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Falschette.internal|Falschette.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Falschette.protect|Falschette.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Falschette.private|Falschette.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Falschette.personal|Falschette.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Falschette.secret|Falschette.secret]] 
+
+### [Falschette.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityFalschette.public.md) 
+
+### [Falschette.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityFalschette.internal.md) 
+
+### [Falschette.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityFalschette.protect.md) 
+
+### [Falschette.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityFalschette.private.md) 
+
+### [Falschette.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityFalschette.personal.md) 
+
+### [Falschette.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Diekirch\CityFalschette.secret.md)
+

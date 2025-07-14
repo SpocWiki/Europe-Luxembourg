@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Mamei|Mamei]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Mamei.public|Mamei.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Mamei.internal|Mamei.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Mamei.protect|Mamei.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Mamei.private|Mamei.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Mamei.personal|Mamei.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Mamei.secret|Mamei.secret]] 
+
+### [Mamei.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMamei.public.md) 
+
+### [Mamei.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMamei.internal.md) 
+
+### [Mamei.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMamei.protect.md) 
+
+### [Mamei.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMamei.private.md) 
+
+### [Mamei.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMamei.personal.md) 
+
+### [Mamei.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMamei.secret.md)
+

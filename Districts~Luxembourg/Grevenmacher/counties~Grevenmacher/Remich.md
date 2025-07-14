@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.55,6.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Luxembourg/City/Remich|Remich]] 
-- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Remich.public|Remich.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Remich.internal|Remich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Remich.protect|Remich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Remich.private|Remich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Remich.personal|Remich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Remich.secret|Remich.secret]] 
+
+### [Remich.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.public.md) 
+
+### [Remich.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.internal.md) 
+
+### [Remich.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.protect.md) 
+
+### [Remich.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.private.md) 
+
+### [Remich.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.personal.md) 
+
+### [Remich.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~Luxembourg\Grevenmacher\counties~GrevenmacherRemich.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Kayl|Kayl]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Kayl.public|Kayl.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Kayl.internal|Kayl.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Kayl.protect|Kayl.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Kayl.private|Kayl.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Kayl.personal|Kayl.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Kayl.secret|Kayl.secret]] 
+
+### [Kayl.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.public.md) 
+
+### [Kayl.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.internal.md) 
+
+### [Kayl.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.protect.md) 
+
+### [Kayl.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.private.md) 
+
+### [Kayl.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.personal.md) 
+
+### [Kayl.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKayl.secret.md)
+

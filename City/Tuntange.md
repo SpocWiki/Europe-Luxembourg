@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Tuntange|Tuntange]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.public|Tuntange.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.internal|Tuntange.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.protect|Tuntange.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.private|Tuntange.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.personal|Tuntange.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.secret|Tuntange.secret]] 
+
+### [Tuntange.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTuntange.public.md) 
+
+### [Tuntange.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTuntange.internal.md) 
+
+### [Tuntange.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTuntange.protect.md) 
+
+### [Tuntange.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTuntange.private.md) 
+
+### [Tuntange.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTuntange.personal.md) 
+
+### [Tuntange.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityTuntange.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Heiderscheid|Heiderscheid]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Heiderscheid.public|Heiderscheid.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Heiderscheid.internal|Heiderscheid.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Heiderscheid.protect|Heiderscheid.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Heiderscheid.private|Heiderscheid.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Heiderscheid.personal|Heiderscheid.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Heiderscheid.secret|Heiderscheid.secret]] 
+
+### [Heiderscheid.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityHeiderscheid.public.md) 
+
+### [Heiderscheid.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityHeiderscheid.internal.md) 
+
+### [Heiderscheid.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityHeiderscheid.protect.md) 
+
+### [Heiderscheid.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityHeiderscheid.private.md) 
+
+### [Heiderscheid.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityHeiderscheid.personal.md) 
+
+### [Heiderscheid.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityHeiderscheid.secret.md)
+

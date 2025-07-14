@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.72,6.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Luxembourg/City/Wasserbillig|Wasserbillig]] 
-- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Wasserbillig.public|Wasserbillig.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wasserbillig.internal|Wasserbillig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wasserbillig.protect|Wasserbillig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wasserbillig.private|Wasserbillig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wasserbillig.personal|Wasserbillig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wasserbillig.secret|Wasserbillig.secret]] 
+
+### [Wasserbillig.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.public.md) 
+
+### [Wasserbillig.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.internal.md) 
+
+### [Wasserbillig.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.protect.md) 
+
+### [Wasserbillig.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.private.md) 
+
+### [Wasserbillig.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.personal.md) 
+
+### [Wasserbillig.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWasserbillig.secret.md)
+

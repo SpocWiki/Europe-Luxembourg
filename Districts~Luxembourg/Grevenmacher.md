@@ -40,11 +40,16 @@ markerFolder: ./Grevenmacher/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher|Grevenmacher]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.public|Grevenmacher.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.internal|Grevenmacher.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.protect|Grevenmacher.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.private|Grevenmacher.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.personal|Grevenmacher.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.secret|Grevenmacher.secret]] 
+
+### [Grevenmacher.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgGrevenmacher.public.md) 
+
+### [Grevenmacher.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgGrevenmacher.internal.md) 
+
+### [Grevenmacher.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgGrevenmacher.protect.md) 
+
+### [Grevenmacher.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgGrevenmacher.private.md) 
+
+### [Grevenmacher.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgGrevenmacher.personal.md) 
+
+### [Grevenmacher.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\Districts~LuxembourgGrevenmacher.secret.md)
 

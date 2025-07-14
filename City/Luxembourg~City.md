@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Luxembourg~City|Luxembourg~City]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Luxembourg~City.public|Luxembourg~City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Luxembourg~City.internal|Luxembourg~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Luxembourg~City.protect|Luxembourg~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Luxembourg~City.private|Luxembourg~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Luxembourg~City.personal|Luxembourg~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Luxembourg~City.secret|Luxembourg~City.secret]] 
+
+### [Luxembourg~City.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityLuxembourg~City.public.md) 
+
+### [Luxembourg~City.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityLuxembourg~City.internal.md) 
+
+### [Luxembourg~City.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityLuxembourg~City.protect.md) 
+
+### [Luxembourg~City.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityLuxembourg~City.private.md) 
+
+### [Luxembourg~City.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityLuxembourg~City.personal.md) 
+
+### [Luxembourg~City.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityLuxembourg~City.secret.md)
+

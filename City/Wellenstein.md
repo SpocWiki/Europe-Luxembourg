@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.55,6.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Luxembourg/City/Wellenstein|Wellenstein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Wellenstein.public|Wellenstein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wellenstein.internal|Wellenstein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wellenstein.protect|Wellenstein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wellenstein.private|Wellenstein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wellenstein.personal|Wellenstein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wellenstein.secret|Wellenstein.secret]] 
+
+### [Wellenstein.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.public.md) 
+
+### [Wellenstein.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.internal.md) 
+
+### [Wellenstein.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.protect.md) 
+
+### [Wellenstein.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.private.md) 
+
+### [Wellenstein.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.personal.md) 
+
+### [Wellenstein.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityWellenstein.secret.md)
+

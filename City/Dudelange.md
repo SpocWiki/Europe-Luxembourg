@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Dudelange|Dudelange]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Dudelange.public|Dudelange.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Dudelange.internal|Dudelange.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Dudelange.protect|Dudelange.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Dudelange.private|Dudelange.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Dudelange.personal|Dudelange.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Dudelange.secret|Dudelange.secret]] 
+
+### [Dudelange.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDudelange.public.md) 
+
+### [Dudelange.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDudelange.internal.md) 
+
+### [Dudelange.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDudelange.protect.md) 
+
+### [Dudelange.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDudelange.private.md) 
+
+### [Dudelange.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDudelange.personal.md) 
+
+### [Dudelange.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityDudelange.secret.md)
+

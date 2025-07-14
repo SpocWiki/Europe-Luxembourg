@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Kopstal|Kopstal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Kopstal.public|Kopstal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Kopstal.internal|Kopstal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Kopstal.protect|Kopstal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Kopstal.private|Kopstal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Kopstal.personal|Kopstal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Kopstal.secret|Kopstal.secret]] 
+
+### [Kopstal.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKopstal.public.md) 
+
+### [Kopstal.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKopstal.internal.md) 
+
+### [Kopstal.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKopstal.protect.md) 
+
+### [Kopstal.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKopstal.private.md) 
+
+### [Kopstal.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKopstal.personal.md) 
+
+### [Kopstal.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityKopstal.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Bissen|Bissen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Bissen.public|Bissen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Bissen.internal|Bissen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Bissen.protect|Bissen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Bissen.private|Bissen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Bissen.personal|Bissen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Bissen.secret|Bissen.secret]] 
+
+### [Bissen.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBissen.public.md) 
+
+### [Bissen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBissen.internal.md) 
+
+### [Bissen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBissen.protect.md) 
+
+### [Bissen.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBissen.private.md) 
+
+### [Bissen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBissen.personal.md) 
+
+### [Bissen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityBissen.secret.md)
+

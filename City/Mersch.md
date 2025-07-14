@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch|Mersch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.public|Mersch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.internal|Mersch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.protect|Mersch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.private|Mersch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.personal|Mersch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.secret|Mersch.secret]] 
+
+### [Mersch.public](/_public/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.public.md) 
+
+### [Mersch.internal](/_internal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.internal.md) 
+
+### [Mersch.protect](/_protect/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.protect.md) 
+
+### [Mersch.private](/_private/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.private.md) 
+
+### [Mersch.personal](/_personal/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.personal.md) 
+
+### [Mersch.secret](/_secret/\Earth\Continent\Europe\Europe~West\Luxembourg\CityMersch.secret.md)
+
