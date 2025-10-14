@@ -21,7 +21,7 @@ State ::
 Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

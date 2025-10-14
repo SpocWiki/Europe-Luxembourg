@@ -21,7 +21,7 @@ has_place_province::
 has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
