@@ -1,16 +1,19 @@
 ---
-location: [49.55,6.37] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Wellenstein
+location:
+  - 49.55
+  - 6.37
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35529
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

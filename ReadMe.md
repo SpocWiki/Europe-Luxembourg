@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Luxembourg
+  - Luxemburgo
+  - لكسمبرغ
+  - 卢森堡
+  - Люксембург
+  - the Grand Duchy of Luxembourg
+  - el Gran Ducado de Luxemburgo
+  - ReadMe
 location:
   - 49.6827
   - 6.07904
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Luxembourg
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Luxembourg
-  - Luxemburgo
-  - لكسمبرغ
-  - 卢森堡
-  - Люксембург
-  - the Grand Duchy of Luxembourg
-  - el Gran Ducado de Luxemburgo
+publishDate: ''
+expiryDate: ''
 Languages:
   - lb
   - de-LU

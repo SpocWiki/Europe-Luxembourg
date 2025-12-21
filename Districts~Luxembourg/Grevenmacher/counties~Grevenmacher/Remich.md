@@ -1,16 +1,19 @@
 ---
-location: [49.55,6.38] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Remich
+location:
+  - 49.55
+  - 6.38
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33701
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
