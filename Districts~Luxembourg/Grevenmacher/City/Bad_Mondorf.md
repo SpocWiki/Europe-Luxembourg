@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32551
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.27
+dv_has_place_latitude: 49.52
+dv_name: Bad_Mondorf
+dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.27] 
-[has_place_latitude::49.52] 
-[name::Bad_Mondorf] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Luxembourg]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Mondorf](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf|Bad_Mondorf]] 
 
-### [Bad_Mondorf.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.public|Bad_Mondorf.public]] 
 
-### [Bad_Mondorf.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.internal|Bad_Mondorf.internal]] 
 
-### [Bad_Mondorf.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.protect|Bad_Mondorf.protect]] 
 
-### [Bad_Mondorf.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.private|Bad_Mondorf.private]] 
 
-### [Bad_Mondorf.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.personal|Bad_Mondorf.personal]] 
 
-### [Bad_Mondorf.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/City/Bad_Mondorf.secret|Bad_Mondorf.secret]] 
 

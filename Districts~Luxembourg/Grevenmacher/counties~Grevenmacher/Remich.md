@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33701
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.38
+dv_has_place_latitude: 49.55
+dv_name: Remich
+dv_has_place_country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.38] 
-[has_place_latitude::49.55] 
-[name::Remich] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
-has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+has_place_country = `=this.dv_has_place_country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Remich](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich|Remich]] 
 
-### [Remich.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.public|Remich.public]] 
 
-### [Remich.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.internal|Remich.internal]] 
 
-### [Remich.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.protect|Remich.protect]] 
 
-### [Remich.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.private|Remich.private]] 
 
-### [Remich.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.personal|Remich.personal]] 
 
-### [Remich.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/Districts~Luxembourg/Grevenmacher/counties~Grevenmacher/Remich.secret|Remich.secret]] 
 

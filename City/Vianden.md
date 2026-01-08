@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35267
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.22
+dv_has_place_latitude: 49.93
+dv_name: Vianden
+dv_Country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.22] 
-[has_place_latitude::49.93] 
-[name::Vianden] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vianden](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden|Vianden]] 
 
-### [Vianden.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.public|Vianden.public]] 
 
-### [Vianden.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.internal|Vianden.internal]] 
 
-### [Vianden.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.protect|Vianden.protect]] 
 
-### [Vianden.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.private|Vianden.private]] 
 
-### [Vianden.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.personal|Vianden.personal]] 
 
-### [Vianden.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Vianden.secret|Vianden.secret]] 
 

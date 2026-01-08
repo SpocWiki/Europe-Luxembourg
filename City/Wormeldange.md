@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35705
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.42
+dv_has_place_latitude: 49.62
+dv_name: Wormeldange
+dv_Country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.42] 
-[has_place_latitude::49.62] 
-[name::Wormeldange] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wormeldange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange|Wormeldange]] 
 
-### [Wormeldange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.public|Wormeldange.public]] 
 
-### [Wormeldange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.internal|Wormeldange.internal]] 
 
-### [Wormeldange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.protect|Wormeldange.protect]] 
 
-### [Wormeldange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.private|Wormeldange.private]] 
 
-### [Wormeldange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.personal|Wormeldange.personal]] 
 
-### [Wormeldange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wormeldange.secret|Wormeldange.secret]] 
 

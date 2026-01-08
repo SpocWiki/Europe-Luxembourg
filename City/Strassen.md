@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34610
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.07
+dv_has_place_latitude: 49.62
+dv_name: Strassen
+dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.07] 
-[has_place_latitude::49.62] 
-[name::Strassen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Luxembourg]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strassen](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen|Strassen]] 
 
-### [Strassen.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.public|Strassen.public]] 
 
-### [Strassen.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.internal|Strassen.internal]] 
 
-### [Strassen.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.protect|Strassen.protect]] 
 
-### [Strassen.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.private|Strassen.private]] 
 
-### [Strassen.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.personal|Strassen.personal]] 
 
-### [Strassen.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Strassen.secret|Strassen.secret]] 
 

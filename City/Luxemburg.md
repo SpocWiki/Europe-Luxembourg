@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32154
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.13
+dv_has_place_latitude: 49.62
+dv_name: Luxemburg
+dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.13] 
-[has_place_latitude::49.62] 
-[name::Luxemburg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Luxembourg]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luxemburg](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg|Luxemburg]] 
 
-### [Luxemburg.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.public|Luxemburg.public]] 
 
-### [Luxemburg.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.internal|Luxemburg.internal]] 
 
-### [Luxemburg.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.protect|Luxemburg.protect]] 
 
-### [Luxemburg.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.private|Luxemburg.private]] 
 
-### [Luxemburg.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.personal|Luxemburg.personal]] 
 
-### [Luxemburg.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Luxemburg.secret|Luxemburg.secret]] 
 

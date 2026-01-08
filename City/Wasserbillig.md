@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35465
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.5
+dv_has_place_latitude: 49.72
+dv_name: Wasserbillig
+dv_Country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.5] 
-[has_place_latitude::49.72] 
-[name::Wasserbillig] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wasserbillig](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig|Wasserbillig]] 
 
-### [Wasserbillig.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.public|Wasserbillig.public]] 
 
-### [Wasserbillig.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.internal|Wasserbillig.internal]] 
 
-### [Wasserbillig.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.protect|Wasserbillig.protect]] 
 
-### [Wasserbillig.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.private|Wasserbillig.private]] 
 
-### [Wasserbillig.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.personal|Wasserbillig.personal]] 
 
-### [Wasserbillig.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wasserbillig.secret|Wasserbillig.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29148
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.05
+dv_has_place_latitude: 49.6
+dv_name: Bertrange
+dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.05] 
-[has_place_latitude::49.6] 
-[name::Bertrange] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Luxembourg]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bertrange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange|Bertrange]] 
 
-### [Bertrange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.public|Bertrange.public]] 
 
-### [Bertrange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.internal|Bertrange.internal]] 
 
-### [Bertrange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.protect|Bertrange.protect]] 
 
-### [Bertrange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.private|Bertrange.private]] 
 
-### [Bertrange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.personal|Bertrange.personal]] 
 
-### [Bertrange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Bertrange.secret|Bertrange.secret]] 
 

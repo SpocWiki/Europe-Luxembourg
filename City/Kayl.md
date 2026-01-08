@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31363
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.03
+dv_has_place_latitude: 49.5
+dv_name: Kayl
+dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.03] 
-[has_place_latitude::49.5] 
-[name::Kayl] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Luxembourg]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kayl](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl|Kayl]] 
 
-### [Kayl.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.public|Kayl.public]] 
 
-### [Kayl.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.internal|Kayl.internal]] 
 
-### [Kayl.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.protect|Kayl.protect]] 
 
-### [Kayl.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.private|Kayl.private]] 
 
-### [Kayl.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.personal|Kayl.personal]] 
 
-### [Kayl.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Kayl.secret|Kayl.secret]] 
 

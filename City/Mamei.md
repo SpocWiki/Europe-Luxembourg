@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32244
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.03
+dv_has_place_latitude: 49.65
+dv_name: Mamei
+dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.03] 
-[has_place_latitude::49.65] 
-[name::Mamei] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Luxembourg]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mamei](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei|Mamei]] 
 
-### [Mamei.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.public|Mamei.public]] 
 
-### [Mamei.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.internal|Mamei.internal]] 
 
-### [Mamei.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.protect|Mamei.protect]] 
 
-### [Mamei.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.private|Mamei.private]] 
 
-### [Mamei.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.personal|Mamei.personal]] 
 
-### [Mamei.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Mamei.secret|Mamei.secret]] 
 

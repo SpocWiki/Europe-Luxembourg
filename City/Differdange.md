@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29792
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.88
+dv_has_place_latitude: 49.53
+dv_name: Differdange
+dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.88] 
-[has_place_latitude::49.53] 
-[name::Differdange] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Luxembourg]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Differdange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange|Differdange]] 
 
-### [Differdange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.public|Differdange.public]] 
 
-### [Differdange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.internal|Differdange.internal]] 
 
-### [Differdange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.protect|Differdange.protect]] 
 
-### [Differdange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.private|Differdange.private]] 
 
-### [Differdange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.personal|Differdange.personal]] 
 
-### [Differdange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Differdange.secret|Differdange.secret]] 
 

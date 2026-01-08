@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35045
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.02
+dv_has_place_latitude: 49.72
+dv_name: Tuntange
+dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.02] 
-[has_place_latitude::49.72] 
-[name::Tuntange] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Luxembourg]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tuntange](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange|Tuntange]] 
 
-### [Tuntange.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.public|Tuntange.public]] 
 
-### [Tuntange.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.internal|Tuntange.internal]] 
 
-### [Tuntange.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.protect|Tuntange.protect]] 
 
-### [Tuntange.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.private|Tuntange.private]] 
 
-### [Tuntange.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.personal|Tuntange.personal]] 
 
-### [Tuntange.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Tuntange.secret|Tuntange.secret]] 
 

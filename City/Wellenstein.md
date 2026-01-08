@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35529
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.37
+dv_has_place_latitude: 49.55
+dv_name: Wellenstein
+dv_Country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.37] 
-[has_place_latitude::49.55] 
-[name::Wellenstein] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wellenstein](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein|Wellenstein]] 
 
-### [Wellenstein.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.public|Wellenstein.public]] 
 
-### [Wellenstein.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.internal|Wellenstein.internal]] 
 
-### [Wellenstein.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.protect|Wellenstein.protect]] 
 
-### [Wellenstein.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.private|Wellenstein.private]] 
 
-### [Wellenstein.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.personal|Wellenstein.personal]] 
 
-### [Wellenstein.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg/City/Wellenstein.secret|Wellenstein.secret]] 
 
