@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.38
 dv_has_place_latitude: 49.55
-dv_name: Remich
+dv_has_name_: Remich
 dv_has_place_country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  

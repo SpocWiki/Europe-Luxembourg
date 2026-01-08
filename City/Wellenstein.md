@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.37
 dv_has_place_latitude: 49.55
-dv_name: Wellenstein
+dv_has_name_: Wellenstein
 dv_Country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  

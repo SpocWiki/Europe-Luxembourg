@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.3
 dv_has_place_latitude: 49.82
-dv_name: Beafort
+dv_has_name_: Beafort
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

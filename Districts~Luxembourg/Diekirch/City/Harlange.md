@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.78
 dv_has_place_latitude: 49.92
-dv_name: Harlange
+dv_has_name_: Harlange
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

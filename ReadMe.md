@@ -42,15 +42,13 @@ dv_ISO4217-currency_country_name: LUXEMBOURG
 dv_Telephone: 352
 dv_Global: true
 dv_Global_Name: World
-dv_name: Luxembourg
-dv_name-en:
-  - Luxembourg
-  - Luxembourg
-dv_name-es: Luxemburgo
-dv_name-fr: Luxembourg
-dv_name-cn: 卢森堡
-dv_name-ar: لكسمبرغ
-dv_name-ru: Люксембург
+dv_has_name_: Luxembourg
+dv_has_name_en: Luxembourg
+dv_has_name_es: Luxemburgo
+dv_has_name_fr: Luxembourg
+dv_has_name_cn: 卢森堡
+dv_has_name_ar: لكسمبرغ
+dv_has_name_ru: Люксембург
 dv_CLDR_display_name: Luxembourg
 dv_UNTERM_English: Luxembourg
 dv_UNTERM_English_Formal: the Grand Duchy of Luxembourg
@@ -87,7 +85,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 442
 dv_ISO2: LU
 dv_ISO3: LUX
-dv_name-de: Luxemburg
+dv_has_name_de: Luxemburg
 dv_Area-Total: 2586
 dv_Area-Land: 0
 dv_Continent: "[[../../../Europe]]"
@@ -114,12 +112,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Luxembourg ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Luxembourg ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -179,8 +177,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Luxembourg] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Luxembourg] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

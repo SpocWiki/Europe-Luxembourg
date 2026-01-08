@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.42
 dv_has_place_latitude: 49.62
-dv_name: Wormeldange
+dv_has_name_: Wormeldange
 dv_Country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.75
 dv_has_place_latitude: 49.8
-dv_name: Perle
+dv_has_name_: Perle
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

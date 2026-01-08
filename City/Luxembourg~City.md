@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.15
 dv_has_place_latitude: 49.62
-dv_name: Luxembourg City
+dv_has_name_: Luxembourg City
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

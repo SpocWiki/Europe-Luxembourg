@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.1
 dv_has_place_latitude: 49.53
-dv_name: Bettembourg
+dv_has_name_: Bettembourg
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

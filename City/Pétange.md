@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.87
 dv_has_place_latitude: 49.57
-dv_name: Pétange
+dv_has_name_: Pétange
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.07
 dv_has_place_latitude: 49.62
-dv_name: Strassen
+dv_has_name_: Strassen
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

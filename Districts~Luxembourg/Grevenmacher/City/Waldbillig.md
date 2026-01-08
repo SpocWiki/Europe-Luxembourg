@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.28
 dv_has_place_latitude: 49.78
-dv_name: Waldbillig
+dv_has_name_: Waldbillig
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

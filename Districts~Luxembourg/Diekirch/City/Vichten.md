@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6
 dv_has_place_latitude: 49.8
-dv_name: Vichten
+dv_has_name_: Vichten
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

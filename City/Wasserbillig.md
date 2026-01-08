@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.5
 dv_has_place_latitude: 49.72
-dv_name: Wasserbillig
+dv_has_name_: Wasserbillig
 dv_Country: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 ---
 #is_a_/Place  

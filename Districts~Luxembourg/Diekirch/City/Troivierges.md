@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6
 dv_has_place_latitude: 50.12
-dv_name: Troivierges
+dv_has_name_: Troivierges
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

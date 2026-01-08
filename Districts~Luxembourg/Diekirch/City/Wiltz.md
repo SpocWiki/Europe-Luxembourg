@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.93
 dv_has_place_latitude: 49.95
-dv_name: Wiltz
+dv_has_name_: Wiltz
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

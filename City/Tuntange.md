@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.02
 dv_has_place_latitude: 49.72
-dv_name: Tuntange
+dv_has_name_: Tuntange
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

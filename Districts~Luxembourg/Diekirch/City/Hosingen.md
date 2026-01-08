@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.1
 dv_has_place_latitude: 50.03
-dv_name: Hosingen
+dv_has_name_: Hosingen
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

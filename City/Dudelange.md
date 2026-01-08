@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.1
 dv_has_place_latitude: 49.5
-dv_name: Dudelange
+dv_has_name_: Dudelange
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  

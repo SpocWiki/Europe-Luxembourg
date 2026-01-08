@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.97
 dv_has_place_latitude: 49.5
-dv_name: Heiderscheid
+dv_has_name_: Heiderscheid
 dv_Country: "[[../../../../Luxembourg]] ]"
 ---
 #is_a_/Place  
