@@ -14,7 +14,7 @@ tags:
 SpocWebEntityId: 29783
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.15
 dv_has_place_latitude: 49.05
 dv_has_name: Diekirch
